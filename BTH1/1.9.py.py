@@ -1,0 +1,8 @@
+print("Ngô Xuân Lâm")
+print("MSV: 245751030110040")
+print("10)")
+a=input("Nhập xâu kí tự:")
+b=a.split()
+print(b)
+c=" ".join(b)
+print(c)
